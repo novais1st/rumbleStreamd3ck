@@ -8,7 +8,5 @@ env/
 db.sqlite3
 .vscode/
 .idea/
-settings.py
-local_settings.py
 media/
 static/
